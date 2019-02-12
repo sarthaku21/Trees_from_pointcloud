@@ -24,6 +24,7 @@ Spatial filtering and smoothing.
 
 Result:
 
+![alt text](https://raw.githubusercontent.com/sarthaku21/Trees_from_pointcloud/master/data/img.png)
 
 
 
